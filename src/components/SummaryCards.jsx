@@ -31,9 +31,6 @@ const SummaryCards = () => {
     gap-6
     p-6
     ">
-
-      {/* Balance */}
-
       <div className="
       bg-green-100
       p-6
@@ -57,8 +54,6 @@ const SummaryCards = () => {
 
       </div>
 
-      {/* Income */}
-
       <div className="
       bg-blue-100
       p-6
@@ -81,8 +76,6 @@ const SummaryCards = () => {
         </p>
 
       </div>
-
-      {/* Expenses */}
 
       <div className="
       bg-red-100
